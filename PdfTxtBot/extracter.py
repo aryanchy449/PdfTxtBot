@@ -18,5 +18,5 @@ class TextExtractor:
 
 
 if __name__ == '__main__':
-    txt = TextExtractor("https://api.telegram.org/file/bot6000547107:AAGQFqWez7wUDmT2xSWMS5GG_1tRH691cFk/documents/file_0.pdf")
+    txt = TextExtractor("https://api.telegram.org/file/bot6931048916:AAEiwn5cej-PVBw95cqsGskW-BEGx95o4jY/documents/file_0.pdf")
     print(txt.extract)
